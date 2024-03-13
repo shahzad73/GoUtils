@@ -1,0 +1,9 @@
+go 1.22.0
+
+use (
+    ./github.com/shahzad73/GoUtils
+    ./proto
+    ./server
+    ./client
+)
+
